@@ -1,3 +1,6 @@
+import hello from './lib.js'
+console.log(hello)
+
 // 　　機能
 // ・１０文字以上の時用のアラートを出す
 // ・１０文字以下の時用のアラートを出す

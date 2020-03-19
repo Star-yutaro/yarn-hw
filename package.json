@@ -1,0 +1,11 @@
+{
+  "name": "yarn-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yutaro <yutaro2000623@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
